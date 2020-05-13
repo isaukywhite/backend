@@ -1,0 +1,31 @@
+[{
+    "DATA": "06/02/2020 00:00:00",
+    "MESA": "1",
+    "STATUS": 0,
+    "CODCAIXA": "000099",
+    "CODVENDEDOR": "S/VEND",
+    "HORA": "21:13:30",
+    "TOTAL": 10,
+    "HORA_PREPARO": "00:00",
+    "HORA_PRONTO": "00:00",
+    "HORA_DA_ENTREGA": "00:00",
+
+    "ITENS": [{
+        "CODIGO": "000001",
+        "ITEM": "001",
+        "CODPRODUTO": "000002",
+        "PRODUTO": "TESTE 2",
+        "CODBARRAS": "9781000000023",
+        "NUMERACAO": "UN",
+        "QTDE": 1,
+        "UNITARIO": 10,
+        "TOTAL": 10,
+        "ACRESCIMO": 0,
+        "TIPO": 25,
+        "ALIQUOTA": 0,
+        "CST": "000",
+        "TERMINAL": "000",
+        "CODSUBGRUPO": "0",
+        "PISCOFINS": "N"
+    }]
+}]
